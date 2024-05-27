@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.a{
+    background-color:aquamarine;
+}
+#b{
+    color: blue;
+}
+#c{
+    color: beige;
+}
+span{
+    border:2px solid red;
+}
