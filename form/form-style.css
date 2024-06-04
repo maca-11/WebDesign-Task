@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-input{
+input[type]{
     border: 2px red solid;
 }
 fieldset{
