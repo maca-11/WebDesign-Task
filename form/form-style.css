@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-input[type]{
+input{
     border: 2px red solid;
 }
 fieldset{
@@ -8,4 +8,8 @@ fieldset{
 }
 input[type]{
     margin-right: 1rem;
+}
+
+.a{
+    font-size: 0.7rem;
 }
