@@ -1,1 +1,38 @@
 @charset "utf-8";
+p{
+    font-size: 20px;
+}
+
+.a,.b,.s{
+    text-align: left;
+    padding: 15px;
+}
+
+th{
+    background-color: rgb(139, 105, 72);
+    color:white;
+}
+
+td{
+    background-color: silver;
+}
+
+button{
+    margin-top: 16px;
+    padding: 7px;
+}
+
+.small{
+    font-size:10px;
+}
+
+.red{
+    font-size: 12px;
+    border-radius: 4px;
+    background-color: red;
+}
+
+.s{
+    vertical-align: top;
+}
+
