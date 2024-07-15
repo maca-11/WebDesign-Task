@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+header ul {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+
+header ul li {
+    width: 20%;
+    text-align: center;
+}
+
+header ul li + li{
+    border-left: 2px solid #00552e;
+}
+
+body{
+    background-color: aqua;
+}
+
+.background img{
+    text-align: center;
+    width: 40%;
+    height: 40%;
+}
+
+
+head{
+    margin-top: 4rem;
+}
